@@ -229,7 +229,7 @@ async def order_product(call: CallbackQuery):
 @dp.callback_query(lambda c: c.data == "menu_support")
 async def support(call: CallbackQuery):
     kb = InlineKeyboardMarkup(inline_keyboard=[
-        [InlineKeyboardButton(text="НАПИСАТЬ В ПОДДЕРЖКУ", url="https://t.me/merch_support")],
+        [InlineKeyboardButton(text="НАПИСАТЬ В ПОДДЕРЖКУ", url="https://t.me/liqvidoff")],
         [InlineKeyboardButton(text="НАЗАД", callback_data="back_main")],
     ])
     await call.message.edit_text(
