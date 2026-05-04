@@ -6,7 +6,7 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton, CallbackQu
 from aiogram.fsm.context import FSMContext
 from aiogram.exceptions import TelegramBadRequest
 
-BOT_TOKEN = os.getenv("8248718556:AAGyxQyL-q8iCy34ChBJ5CWQ1SYcT7X8gps")
+BOT_TOKEN = ("8248718556:AAGyxQyL-q8iCy34ChBJ5CWQ1SYcT7X8gps")
 
 CATEGORIES = {
     "hoodies": "Худи и Свитшоты",
