@@ -10,7 +10,7 @@ import aiohttp
 from datetime import datetime
 
 # ==================== КОНФИГУРАЦИЯ SWILL ====================
-BOT_TOKEN = "8248718556:AAGyxQyL-q8iCy34ChBJ5CWQ1SYcT7X8gps"
+BOT_TOKEN = "8049709250:AAGX7CMV0x-b-t-RlxC0tBVF0QAPgns_AEY"
 CRYPTO_WALLET = "TXjkf93jFg7GdH8sLp2QaBcDeFgHiJkLmNoPqRsTuV"  # USDT TRC20
 SUPPORT_LINK = "@greenman_supp"
 CACTUS_API_URL = "https://lk.cactuspay.pro/api/?method=create"
